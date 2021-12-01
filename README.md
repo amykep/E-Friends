@@ -1,6 +1,6 @@
 # E-Friends
 
-# 1. DESCRIPTION
+## DESCRIPTION
 E-Friends is a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. This is an API for the web application that was built using Express.js for routing, a MongoDB database, and the Mongoose ODM.
 
 ## User Story
@@ -21,7 +21,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 
 ## Languages
-JavaScript, Node.js, Npm Modules, MySQL, Mongoose
+JavaScript, Node.js, Npm Modules, Mongoose
 
 ## Screenshots
 HomePage
