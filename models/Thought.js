@@ -27,6 +27,8 @@ const reactionSchema = new Schema(
         toJSON: {
             getters: true,
         },
+        // prevents virtuals from creating duplicate of _id as `id`
+        id: false,
     }
 );
 
@@ -51,7 +53,7 @@ const thoughtSchema = new Schema(
     {
         toJSON: {
             virtuals: true,
-            getters: true,
+            getters: true
         },
         id: false,
     }
