@@ -28,7 +28,7 @@ walkthrough video demonstrating the functionality of the application.
 ![Screenshot of note adding](./E-Friends.gif)</br>
 
 walkthrough video demonstrating the bonus functionality of the application.
-![Screenshot of note adding](./E-Friends.gif)</br>
+![Screenshot of note adding](./E-Friends Bonus.gif)</br>
 
 
 ## Github Page: 
@@ -38,3 +38,6 @@ https://github.com/amykep/E-Friends
 
 https://drive.google.com/file/d/1AjqRS-ojW_S8d_DCOYKihzjZYnL-bOC0/view?usp=sharing
 
+
+## A link to walkthrough video demonstrating the bonus function.
+https://drive.google.com/file/d/1qxyGEuyEaXvqeBg1MgSWuP41JQdsaVUS/view?usp=sharing
