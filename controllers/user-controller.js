@@ -1,5 +1,5 @@
-const { User } = require("../models");
-const { populate } = require("../models/User");
+const { User, Thought } = require("../models");
+// const { populate } = require("../models/User");
 
 const userController = {
     //get all users
@@ -78,6 +78,14 @@ const userController = {
                     return;
                 }
                 res.json(dbUserData);
+                console.log(dbUserData)
+                dbUserData.thoughts.forEach(thoughtId =>
+                {
+                    Thought.findOneAndDelete({ _id: thoughtId })
+                        .then(() => console.log("deleted"))
+
+                        .catch(err => console.log(err))
+                })
             })
             .catch(err => res.json(err));
     },

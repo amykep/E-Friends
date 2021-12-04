@@ -23,12 +23,18 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Languages
 JavaScript, Node.js, Npm Modules, Mongoose
 
-## Screenshots
-HomePage
-![Screenshot of note adding](./public/images/img.gif)</br>
+## Videos
+walkthrough video demonstrating the functionality of the application.
+![Screenshot of note adding](./E-Friends.gif)</br>
+
+walkthrough video demonstrating the bonus functionality of the application.
+![Screenshot of note adding](./E-Friends.gif)</br>
+
 
 ## Github Page: 
 https://github.com/amykep/E-Friends
 
-## A walkthrough video demonstrating the functionality of the application.
+## A link to walkthrough video demonstrating the functionality of the application.
+
+https://drive.google.com/file/d/1AjqRS-ojW_S8d_DCOYKihzjZYnL-bOC0/view?usp=sharing
 
