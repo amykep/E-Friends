@@ -39,5 +39,5 @@ https://github.com/amykep/E-Friends
 https://drive.google.com/file/d/1AjqRS-ojW_S8d_DCOYKihzjZYnL-bOC0/view?usp=sharing
 
 
-## A link to walkthrough video demonstrating the bonus function.
+## A link to walkthrough video demonstrating the bonus function.""Application deletes a user's associated thoughts when the user is deleted."
 https://drive.google.com/file/d/1qxyGEuyEaXvqeBg1MgSWuP41JQdsaVUS/view?usp=sharing
