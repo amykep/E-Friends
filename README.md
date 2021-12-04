@@ -25,10 +25,10 @@ JavaScript, Node.js, Npm Modules, Mongoose
 
 ## Videos
 walkthrough video demonstrating the functionality of the application.
-![Screenshot of note adding](./E-Friends.gif)</br>
+![Screenshot of app functions](./E-Friends.gif)</br>
 
-walkthrough video demonstrating the bonus functionality of the application.
-![Screenshot of note adding](./E-Friends Bonus.gif)</br>
+walkthrough video demonstrating the bonus functionality of the application. Application deletes a user's associated thoughts when the user is deleted.
+![Screenshot of bonus function](./E-Friends2.gif)</br>
 
 
 ## Github Page: 
@@ -39,5 +39,5 @@ https://github.com/amykep/E-Friends
 https://drive.google.com/file/d/1AjqRS-ojW_S8d_DCOYKihzjZYnL-bOC0/view?usp=sharing
 
 
-## A link to walkthrough video demonstrating the bonus function.""Application deletes a user's associated thoughts when the user is deleted."
+## A link to walkthrough video demonstrating the bonus function."Application deletes a user's associated thoughts when the user is deleted."
 https://drive.google.com/file/d/1qxyGEuyEaXvqeBg1MgSWuP41JQdsaVUS/view?usp=sharing
